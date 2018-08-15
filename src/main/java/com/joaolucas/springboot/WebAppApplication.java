@@ -1,4 +1,4 @@
-package com.joaolucas.springboot.WebApp;
+package com.joaolucas.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
