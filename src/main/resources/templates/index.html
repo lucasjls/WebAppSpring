@@ -13,5 +13,19 @@
         <li>Go to the <a href="/user" th:href="@{/user}">secured pages</a></li>
     </ul>
 </div>
+
+<script src="https://www.gstatic.com/firebasejs/5.4.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDcXNv2nRk6Y-htWfLdTOyO9unZGKRA5ek",
+    authDomain: "webapptest-c7cb0.firebaseapp.com",
+    databaseURL: "https://webapptest-c7cb0.firebaseio.com",
+    projectId: "webapptest-c7cb0",
+    storageBucket: "webapptest-c7cb0.appspot.com",
+    messagingSenderId: "262169796232"
+  };
+  firebase.initializeApp(config);
+</script>
 </body>
 </html>
