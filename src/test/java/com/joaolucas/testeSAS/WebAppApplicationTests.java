@@ -1,4 +1,4 @@
-package com.joaolucas.springboot;
+package com.joaolucas.testeSAS;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

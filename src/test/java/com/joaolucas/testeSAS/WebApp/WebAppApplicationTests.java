@@ -1,4 +1,4 @@
-package com.joaolucas.springboot.WebApp;
+package com.joaolucas.testeSAS.WebApp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

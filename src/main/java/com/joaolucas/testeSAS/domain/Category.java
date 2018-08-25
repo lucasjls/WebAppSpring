@@ -1,4 +1,4 @@
-package com.joaolucas.springboot.domain;
+package com.joaolucas.testeSAS.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

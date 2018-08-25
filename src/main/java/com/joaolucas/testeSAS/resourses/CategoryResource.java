@@ -1,6 +1,6 @@
-package com.joaolucas.springboot.resourses;
+package com.joaolucas.testeSAS.resourses;
 
-import com.joaolucas.springboot.domain.Category;
+import com.joaolucas.testeSAS.domain.Category;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
